@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="LTSolution.Application/LTSolution.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="LTSolution.Domain/LTSolution.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="LTSolution.Infrastructure/LTSolution.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="LTSolution.API/LTSolution.API.csproj" />
+  </Folder>
+</Solution>

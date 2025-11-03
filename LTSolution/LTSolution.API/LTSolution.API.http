@@ -1,0 +1,6 @@
+@LTSolution.API_HostAddress = http://localhost:5102
+
+GET {{LTSolution.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
