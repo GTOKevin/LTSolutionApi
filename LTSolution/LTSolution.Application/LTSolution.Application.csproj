@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LTSolution.Domain\LTSolution.Domain.csproj" />
+    <ProjectReference Include="..\LTSolution.Infrastructure\LTSolution.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
